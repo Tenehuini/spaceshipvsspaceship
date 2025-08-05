@@ -1,6 +1,6 @@
 # Spaceship vs Spaceship
 
-A 2-player space battle game built with Pygame where two spaceships face off in combat. The yellow spaceship (left side) battles against the red spaceship (right side) in an action-packed duel.
+A 2-player space battle game built with Pygame where two spaceships face off in combat. The yellow spaceship (left side) battles against the red spaceship (right side).
 
 ## Game Controls
 
